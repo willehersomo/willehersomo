@@ -31,7 +31,7 @@ Participei do **SBSeg 2026** - XXVI Simpósio Brasileiro de Cibersegurança, em 
 
 ### 🎓 Formação
 
-**Bacharelado em Ciência da Computação** — IFSP, Presidente Epitácio/SP · 2023 – 2026
+**Bacharelado em Ciência da Computação** - IFSP, Presidente Epitácio/SP · 2023 – 2026
 
 Monitor acadêmico bolsista:
 
