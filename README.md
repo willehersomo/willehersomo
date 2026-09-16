@@ -56,20 +56,3 @@ Monitor acadêmico bolsista:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### 📌 Projetos
-
-| repositório | o que é |
-|---|---|
-| [**PovRay**](https://github.com/willehersomo/PovRay) | Compilador para a linguagem POV-Ray — Java + ANTLR |
-| [**Sistema-de-Arquivos**](https://github.com/willehersomo/Sistema-de-Arquivos) | Simulação de um sistema de arquivos EXT, em C |
-| [**GAN**](https://github.com/willehersomo/GAN) | Redes adversárias generativas — base da pesquisa de IC |
-| [**Visao-Computacional**](https://github.com/willehersomo/Visao-Computacional) | Processamento digital de imagens em MATLAB |
-| [**Sistemas-Distribuidos**](https://github.com/willehersomo/Sistemas-Distribuidos) | Comunicação, RPC e concorrência distribuída |
-| [**Linguagem-de-Montagem**](https://github.com/willehersomo/Linguagem-de-Montagem) | Assembly x86-64 |
-| [**thread**](https://github.com/willehersomo/thread) | Programação concorrente com threads POSIX, em C |
-| [**xadrez-pyqt**](https://github.com/willehersomo/xadrez-pyqt) | Xadrez com interface em PyQt |
-
----
-
