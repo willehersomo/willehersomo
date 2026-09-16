@@ -17,7 +17,7 @@
 
 ### 🔬 Pesquisa
 
-**Iniciação Científica** · IFSP — Campus Presidente Epitácio · desde mar/2026
+**Iniciação Científica** · IFSP - Campus Presidente Epitácio · desde mar/2026
 
 > ### Esteganografia utilizando Redes Adversárias Generativas
 > Desenvolvimento e avaliação de um modelo de aprendizado profundo para **ocultar e
@@ -25,7 +25,7 @@
 
 `redes neurais` · `processamento de imagem` · `segurança da informação`
 
-Participei do **SBSeg 2026** — XXVI Simpósio Brasileiro de Cibersegurança, em Búzios/RJ.
+Participei do **SBSeg 2026** - XXVI Simpósio Brasileiro de Cibersegurança, em Búzios/RJ.
 
 ---
 
@@ -73,4 +73,3 @@ Monitor acadêmico bolsista:
 
 ---
 
-<sub>O banner acima é um SVG animado gerado por <a href="./gen.py"><code>gen.py</code></a> — sem GIF e sem serviço externo.</sub>
